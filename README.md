@@ -25,7 +25,6 @@ Herramienta web de un solo archivo (`HCI_Sizing_Tool.html`) para dimensionar y c
 
 ## Cómo colaborar
 Ver [CONTRIBUTING.md](CONTRIBUTING.md). Todo cambio entra por **pull request** y requiere aprobación del responsable.
-Las copias editadas fuera de este repositorio no son versiones oficiales.
 
 ## Historial
 Ver [CHANGELOG.md](CHANGELOG.md) y la pestaña **Releases**.
