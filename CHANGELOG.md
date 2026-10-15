@@ -10,3 +10,4 @@
 - Topología con conexión externa (usuarios, Internet/WAN, servicios externos).
 - Requerimientos específicos del cliente seleccionables (migración, P2V, UAT, retiro y borrado seguro, transferencia de conocimiento, soporte 3/5 años, retención de discos, TAM).
 - Exportación Word: portada, tabla de contenido, numeración, texto justificado, paginación, Times New Roman 12.
+- Firma del autor en el pie del sizer.
