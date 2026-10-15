@@ -1,4 +1,4 @@
-# Sangfor HCI Sizing & Quotation Tool (WAFR)
+# Sangfor HCI Sizing & Quotation Tool (@wilmerfr/WAFR)
 
 Herramienta web de un solo archivo (`HCI_Sizing_Tool.html`) para dimensionar y cotizar soluciones **Sangfor HCI**
 (aSV, aSAN, aNET, SCP) con switching **SUNDRAY**, y generar la propuesta técnica en Word.
