@@ -20,8 +20,7 @@ Herramienta web de un solo archivo (`HCI_Sizing_Tool.html`) para dimensionar y c
 - **06 Topología** y **07 Descripción de la solución** con exportación a Word (portada, índice, numeración, Times New Roman 12).
 
 ## Fuentes de la metodología
-- *070 Sangfor HCI Advanced Sizing & Quotation 202607* (pptx).
-- *SangforHCISizingTool.xlsx* y precios referenciales (2026-10).
+- Sizing de Sangfor
 
 ## Cómo colaborar
 Ver [CONTRIBUTING.md](CONTRIBUTING.md). Todo cambio entra por **pull request** y requiere aprobación del responsable.
