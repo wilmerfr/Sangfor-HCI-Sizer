@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.1.0 — 2026-10-15
+- Contexto del proyecto: botón **Copiar** en *Calificación de la oportunidad* (preguntas, estado, opción y respuesta).
+- El cuestionario para el cliente (copiar y Word) incluye ahora la sección *Calificación de la oportunidad*.
+
 ## v1.0.0 — 2026-10-15 (primera carga)
 - Sizing por vCPU o por frecuencia, multi-clúster, HA N+k, witness, Memory Tiering y aSAN (híbrido / all flash).
 - Crecimiento **compuesto** o **acumulado** sobre CPU, RAM y storage.
